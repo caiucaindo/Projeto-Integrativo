@@ -9,11 +9,11 @@
 - **Dashboard**
 	- Bubble map.
 		https://observablehq.com/@d3/bubble-map/2?intent=fork
-	 	Seria usado para mapear o número de farmácias na região.
+	 	> Seria usado para mapear o número de farmácias na região.
 
 	- Histogram.
    		https://observablehq.com/@d3/histogram/2?intent=fork
-		Usado para registrar os horários de pico de pedidos e vendas nas farmácias.
+		> Usado para registrar os horários de pico de pedidos e vendas nas farmácias.
 
 
 
